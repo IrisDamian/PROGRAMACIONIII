@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProCulebrita", "ProCulebrita.csproj", "{372E66DA-8F6C-4AC1-A848-9F468403D501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372E66DA-8F6C-4AC1-A848-9F468403D501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372E66DA-8F6C-4AC1-A848-9F468403D501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372E66DA-8F6C-4AC1-A848-9F468403D501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372E66DA-8F6C-4AC1-A848-9F468403D501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328C2368-18EA-4B82-9DDE-08A196C044BB}
+	EndGlobalSection
+EndGlobal

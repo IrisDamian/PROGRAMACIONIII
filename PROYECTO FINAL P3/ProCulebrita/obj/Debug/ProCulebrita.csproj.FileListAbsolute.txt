@@ -1,0 +1,7 @@
+C:\Users\Iris Damian\Desktop\ProCulebrita\bin\Debug\ProCulebrita.exe.config
+C:\Users\Iris Damian\Desktop\ProCulebrita\bin\Debug\ProCulebrita.exe
+C:\Users\Iris Damian\Desktop\ProCulebrita\bin\Debug\ProCulebrita.pdb
+C:\Users\Iris Damian\Desktop\ProCulebrita\obj\Debug\ProCulebrita.csproj.AssemblyReference.cache
+C:\Users\Iris Damian\Desktop\ProCulebrita\obj\Debug\ProCulebrita.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\ProCulebrita\obj\Debug\ProCulebrita.exe
+C:\Users\Iris Damian\Desktop\ProCulebrita\obj\Debug\ProCulebrita.pdb
